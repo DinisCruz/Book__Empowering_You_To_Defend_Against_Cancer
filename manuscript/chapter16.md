@@ -118,9 +118,246 @@ The complete food chart categorizes all foods by their pH properties (alkaline, 
 - **Neutral**: Foods that remain neutral only when your pH is stable. (A stable pH is 6.4 or higher)
 - **Acidic to Alkaline**: Acidic foods that convert to alkaline when your pH is stable.
 
+### Animal Protein
+
+**Safe to Eat (Acidic - use 4:1 ratio):**
+- Chicken
+- Cod
+- Crab
+- Egg white
+- Flounder
+- Haddock
+- Halibut
+- Salmon
+- Sardine
+- Sole
+- Tuna
+- Turkey
+
+**Unsafe (Avoid):**
+- Beef
+- Clam
+- Egg yolk
+- Ham
+- Lamb
+- Liver
+- Lobster
+- Pork
+- Scallop
+- Shrimp
+
+### Beans
+
+**Alkaline:**
+- Adzuki
+- Anasaki
+- Black
+- Chickpea
+- Kidney
+- Soy/tofu
+- Lentil
+- Mung
+- Navy
+- Northern
+- Pinto
+- White
+
+### Nuts/Seeds
+
+**All Unsafe (Avoid):**
+- Almond
+- Brazil
+- Cashew
+- Macadamia
+- Peanut
+- Pecan
+- Pine
+- Pistachio
+- Pumpkin
+- Sesame
+- Sunflower
+- Walnut
+
+### Fats
+
+**Alkaline:**
+- Avocado
+- Olive oil
+
+**Acidic:**
+- Butter
+- Coconut
+- Cream
+- Ghee
+- Margarine
+- Vegetable oil
+
+### Low-Starch Vegetables
+
+**Alkaline:**
+- Arugula
+- Asparagus
+- Broccoli
+- Brussels sprouts
+- Cabbage
+- Cauliflower
+- Chinese cabbage
+- Collard
+- Cucumber
+- Eggplant
+- Endive
+- Escarole
+- Garlic
+- Green beans
+- Kale
+- Kohlrabi
+- Leek
+- Lettuce
+- Lotus root
+- Mustard green
+- Okra
+- Onion
+- Parsley
+- Pepper
+- Radish
+- Scallion
+- Sorrel
+- Spinach
+- Summer squash
+- Swiss chard
+- Turnip
+- Turnip green
+- Watercress
+- Zucchini
+
+**Unsafe (Avoid):**
+- Mushroom
+- Sprouts
+
+### High-Starch Vegetables
+
+**Alkaline:**
+- Artichoke
+- Beet
+- Carrot
+- Parsnip
+- Pea
+- Potato
+- Pumpkin
+- Winter squash
+- Yam
+
+**Unsafe (Avoid):**
+- Chestnut
+- Corn
+- Lima bean
+
+### Grain Products
+
+**Alkaline:**
+- Amaranth
+- Barley
+- Buckwheat
+- Millet
+- Quinoa
+
+**Acidic:**
+- Kamut
+- Kasha
+- Oats
+- Rice
+- Rye
+- Triticale
+- Wheat
+- Spelt
+
+### Acid Fruits
+
+**Alkaline:**
+- Grapefruit
+- Kumquat
+- Kiwi
+- Lemon
+- Lime
+- Orange
+- Pineapple
+- Strawberry
+- Tomato
+
+### Sub-Acid Fruits
+
+**Alkaline:**
+- Apple
+- Apricot
+- Blackberry
+- Blueberry
+- Cherry
+- Grape
+- Mango
+- Nectarine
+- Papaya
+- Peach
+- Pear
+- Plum
+- Raspberry
+- Tangerine
+
+### Sweet Fruits
+
+**Alkaline:**
+- Banana
+
+**Unsafe (Avoid):**
+- Date
+- Currant
+- Fig
+- Raisin
+
+### Sugars
+
+**Alkaline:**
+- Barley malt
+- Rice syrup
+- Stevia
+
+**Acidic:**
+- Brown sugar
+- Honey
+- Maple syrup
+- Sucanat
+- Turbinado
+
+**Unsafe (Avoid):**
+- White sugar
+- White bread
+
+### Dairy
+
+**All Unsafe (Avoid):**
+- Cow's cheese
+- Rice milk
+- Rice milk cheese
+- Cow's milk
+- Cow's yogurt
+
+**Neutral (when pH is stable):**
+- Almond milk
+- Soy milk
+- Soy cheese
+- Soy yogurt
+
+### Miscellaneous
+
+**Unsafe (Avoid):**
+- Fruit preserve
+- Sugar free jam
+- Vinegar
+- Coffee
+- Chocolate
+- Beer/wine
+- Spirits
+
 {class: tip}
 B> **Recommendation**
 B>
 B> Upon beginning your program, ReachVitality recommends that cancer patients avoid the foods that are crossed out. Over time and with success, you may add foods back with caution and moderation.
-
-In the next chapters, we'll explore additional nutritional considerations including the glycemic index, processed foods, and the critical role of antioxidants.

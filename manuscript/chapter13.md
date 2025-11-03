@@ -9,7 +9,7 @@ The metabolic load in someone with cancer is significantly higher than in a heal
 {class: tip}
 B> **An Interesting Comparison**
 B>
-B> A person with cancer sitting on a couch has a comparable metabolic load to a person without cancer who is on a brisk walk.
+B> A person with cancer sitting on a couch has a comparable metabolic load to a person without cancer who is on a brisk walk.^29,\ 30,\ 31^
 
 If cancer increases REE (Resting Energy Expenditure) by, say, 10-30% or more depending on stage, tumor burden, treatment, etc., that could mean an extra few hundred calories per day just to maintain basic functions.
 

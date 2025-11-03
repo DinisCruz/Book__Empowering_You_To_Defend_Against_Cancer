@@ -15,6 +15,8 @@ B> It's crucial that any supplementation be discussed with a healthcare provider
 
 The following supplements form the foundation of the ReachVitality anti-cancer supplementation protocol:
 
+- Soursop (Paw Paw or Graviola)
+- Black Seed Oil
 - Quercetin with Bromelain
 - B Complex
 - Zinc
@@ -25,8 +27,7 @@ The following supplements form the foundation of the ReachVitality anti-cancer s
 - Magnesium
 - Distilled Water
 - Chlorophyll
-- Soursop (Paw Paw or Graviola)
-- Black Seed Oil
+- NUUN Electrolyte Tablets
 
 ## Detailed Supplement Information
 
@@ -280,9 +281,25 @@ B> **Dosage**
 B>
 B> 1-3 tablets per day in water
 
-## Complete Supplement List with Purchase Links
+## Complete Supplement List with Dosages and Purchase Links
 
-See the next chapter for the complete list of supplements with dosages and purchase links.
+| **PRODUCT** | **DOSAGE** | **PURCHASE LINK** |
+|-------------|------------|-------------------|
+| Paw Paw* Soursop Capsules | 2 capsules 2 x day | [Purchase Link](https://example.com) |
+| Graviola* Soursop Tincture<br>*If Paw Paw upsets the stomach, Graviola is a good alternative. DO NOT TAKE both. | 21 drops 2 x day | [Purchase Link](https://example.com) |
+| Black Seed Oil Capsules | 3 capsules per day | [Purchase Link](https://example.com) |
+| Zinc Glycinate | 1 capsule per day | [Purchase Link](https://example.com) |
+| Magnesium | 2 capsules at night | [Purchase Link](https://example.com) |
+| B Complex | 2 capsules per day | [Purchase Link](https://example.com) |
+| Ellagic Acid | 2 capsules 3 x day | [Purchase Link](https://example.com) |
+| Chlorophyll | 1 Tbsp 3 x day in distilled water | [Purchase Link](https://example.com) |
+| Quercetin with Bromelain | 2 capsules 3 x day | [Purchase Link](https://example.com) |
+| Probiotics | 1 capsule 1 x day | [Purchase Link](https://example.com) |
+| Vitamin D & MK-7 | 1 capsule 1 x day | [Purchase Link](https://example.com) |
+| pH Strips | Test M/W/F, calculate average | [Purchase Link](https://example.com) |
+| Spleen Glandular | 1 cap 1 x day | [Purchase Link](https://example.com) |
+| NUUN Electrolyte Tabs | 1-3 tablets per day in water | [Purchase Link](https://example.com) |
+| Distilled Water | 30–35 milliliters of water per kilogram of body weight per day, or roughly half your body weight in ounces. | Available at most supermarkets |
 
 {class: success}
 B> **Foundation for Healing**
