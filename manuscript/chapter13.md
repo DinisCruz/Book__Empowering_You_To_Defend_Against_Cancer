@@ -37,10 +37,19 @@ Quantities of certain foods can increase cancer's ability to thrive and multiply
 B> **It's not about more food.**  
 B> **It's about the right food.**
 
-## Fueling Your Body, Not Your Cancer
+## Fuel Your Body's Metabolic Load, Not Your Cancer
 
-When facing cancer, every bite matters. The foods you choose can either fuel your body's increased metabolic needs—supporting immunity, cancer elimination, cellular repair, and recovery—or feed cancer's demand for quick energy, like sugar.
+When facing cancer, every bite matters. The foods you choose can either fuel your body's increased metabolic needs—supporting cancer immunity, cancer elimination, cellular repair, and recovery—or feed cancer's demand for quick energy. By focusing on nutrient-dense, alkaline-balanced, antioxidant-rich foods, you give your body the strength it needs to fight, while creating conditions that are less favorable for cancer to grow.
 
-By focusing on nutrient-dense, alkaline-balanced, antioxidant-rich foods and supplements, you give your body the strength it needs to fight, while creating conditions that are less favorable for cancer to grow.
+### It's about balance.
 
-In the chapters ahead, you'll learn exactly how to make these informed choices—understanding which foods support your metabolic load and which foods inadvertently support cancer growth.
+ReachVitality's Lifestyle Medicine Program will show you how to achieve balance, or homeostasis. Homeostasis is the body's ability to maintain stable internal conditions—like temperature, alkaline pH, and fluid balance.
+
+It's not about giving up the things that make you happy. When you start your ReachVitality plan, we recommend that the integrated program is adhered to as much as possible, so that you can see how your body responds. As time and success progresses, we can help you adjust accordingly.
+
+Through her own journey with cancer, Deb discovered that following her program about 85% of the time helps keep cancer away and supports her body's healing processes. Allowing herself the remaining 15% for flexibility gives her the freedom to enjoy life's moments without losing the sense of safety, confidence – and most importantly, the progress she's achieved.
+
+{class: success}
+B> **Living with cancer often brings uncertainty.**
+B>
+B> Many people find that the ReachVitality program helps to cultivate feelings of safety and confidence – which can be deeply empowering.

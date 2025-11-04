@@ -46,8 +46,8 @@ The following supplements form the foundation of the ReachVitality anti-cancer s
 {class: tip}
 B> **Dosage**
 B>
-B> - Paw Paw Soursop Capsules: 2 capsules, 2 times per day
-B> - Graviola Soursop Tincture: 21 drops, 2 times per day
+B> - Paw Paw Soursop Capsules: 2 capsules 3 x day
+B> - Graviola Soursop Tincture: 21 drops 3 x day
 B>
 B> **Important**: If Paw Paw upsets the stomach, Graviola is a good alternative. DO NOT TAKE both.
 
@@ -285,8 +285,8 @@ B> 1-3 tablets per day in water
 
 | **PRODUCT** | **DOSAGE** | **PURCHASE LINK** |
 |-------------|------------|-------------------|
-| Paw Paw* Soursop Capsules | 2 capsules 2 x day | [Purchase Link](https://example.com) |
-| Graviola* Soursop Tincture<br>*If Paw Paw upsets the stomach, Graviola is a good alternative. DO NOT TAKE both. | 21 drops 2 x day | [Purchase Link](https://example.com) |
+| Paw Paw* Soursop Capsules | 2 capsules 3 x day | [Purchase Link](https://example.com) |
+| Graviola* Soursop Tincture<br>*If Paw Paw upsets the stomach, Graviola is a good alternative. DO NOT TAKE both. | 21 drops 3 x day | [Purchase Link](https://example.com) |
 | Black Seed Oil Capsules | 3 capsules per day | [Purchase Link](https://example.com) |
 | Zinc Glycinate | 1 capsule per day | [Purchase Link](https://example.com) |
 | Magnesium | 2 capsules at night | [Purchase Link](https://example.com) |

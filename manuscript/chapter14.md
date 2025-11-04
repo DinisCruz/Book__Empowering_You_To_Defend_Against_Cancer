@@ -39,15 +39,24 @@ B> **Critical Insight**
 B>
 B> A urine pH reading is a real-time snapshot that lets you know if your body is favorable, or unfavorable, to cancer.
 
-## Lifestyle Choices Affect Alkalinity
+## Putting Alkalinity to Work at Fighting Cancer
 
-The 6 Pillars of Lifestyle Medicine—nutrition/supplementation, movement, restorative sleep, stress management, positive social connections, and avoidance of risky substances—all work together to support your body's natural alkalinity.
+### Lifestyle Choices Affect Alkalinity
 
-These habits improve oxygen delivery, strengthen cellular repair, and create an internal chemistry less favorable to cancer. When the pillars fall out of balance, the body can become more acidic, creating conditions cancer can exploit.
+The 6 Pillars of Lifestyle Medicine all work together to support your body's natural alkalinity. These habits improve oxygen delivery, strengthen cellular repair, and create an internal chemistry less favorable to cancer:
+
+- Nutrition/supplementation
+- Exercise/movement
+- Restorative sleep
+- Stress management
+- Positive social connections, and
+- Avoidance of risky substances
+
+When the Pillars fall out of balance, the body can become more acidic, creating conditions cancer can exploit.
 
 {class: success}
 B> **Integrated Approach**
 B>
-B> Each ReachVitality 6-Pillar Lifestyle Medicine learning module will show you practical ways to build and help maintain an alkaline balance to help prevent and fight cancer.
+B> Each ReachVitality 6-Pillar Lifestyle Medicine learning module will show you integrated and practical ways to build and maintain an alkaline balance to help prevent and fight cancer.
 
 In the next chapter, we'll explore the specific alkaline food strategy and how to implement it in your daily life.

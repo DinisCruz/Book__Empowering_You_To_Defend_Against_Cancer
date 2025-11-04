@@ -94,8 +94,41 @@
 30. **Science Direct: Elevated energy expenditure in cancer patients with solid tumours**  
     https://www.sciencedirect.com/science/article/abs/pii/027753799190050N
 
-31. **Healthline: How Many Calories Do You Burn While Walking?**  
+31. **Healthline: How Many Calories Do You Burn While Walking?**
     https://www.healthline.com/health/calories-burned-walking
+
+32. **Zhao, J., et al. (2024). Glycolysis in the tumor microenvironment: a driver of cancer**
+    PMC (free full-text): https://pmc.ncbi.nlm.nih.gov/articles/PMC11199735
+
+33. **Ward, C., et al. (2020). The impact of tumour pH on cancer progression: strategies for**
+    PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC9400736/
+
+34. **Xiao, C., et al. (2022). Glycolysis in tumor microenvironment as a target to**
+    Frontiers in Cell and Developmental Biology: https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1013885/
+
+35. **Alkaline Food Chart, Dr Mark Mincolla, PhD**
+    markmincolla.com
+
+36. **Fiolet et al. (2022). Association between ultra-processed food consumption and cancer risk**
+    PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC10285062
+
+37. **Mendes-Soares et al. (2023). The relationship between dietary inflammatory potential and cancer outcomes**
+    PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC10582578
+
+38. **National Cancer Institute. Aflatoxins – Cancer-causing substances**
+    https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/aflatoxins
+
+39. **Turati, F., et al. Glycemic Index, Glycemic Load and Cancer Risk: An Updated Systematic Review and Meta-Analysis**
+    Food & Function. 2019. [PMCID PMC6835610]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6835610
+
+40. **The Warburg Effect: How Does it Benefit Cancer Cells?**
+    PMC. March 2016: https://pmc.ncbi.nlm.nih.gov/articles/PMC4783224
+
+41. **Reuter, S., Gupta, S. C., Chaturvedi, M. M., & Aggarwal, B. B. (2010). Oxidative stress, inflammation, and cancer: How are they linked?**
+    Frontiers in Bioscience: https://pmc.ncbi.nlm.nih.gov/articles/PMC2990475/
+
+42. **National Cancer Institute. Antioxidants and Cancer Prevention (2024)**
+    https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet
 
 ---
 
