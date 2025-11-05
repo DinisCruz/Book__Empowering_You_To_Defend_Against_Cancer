@@ -272,6 +272,8 @@ B> **Important Note**
 B>
 B> The body's alkalinity is best supported through nutrition and overall lifestyle — not by changing the pH of your drinking water.
 
+Distilled water is made by boiling water into steam and then condensing it back into liquid, leaving behind impurities, minerals, and contaminants. The result is pure H2O — free of chemicals and toxins.
+
 Distilled water is available at most supermarkets.
 
 ### Electrolytes

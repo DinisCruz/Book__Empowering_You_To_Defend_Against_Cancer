@@ -24,7 +24,7 @@ Additionally, plentiful oxygen/alkalinity strengthens normal cell metabolism and
 
 ## Blood pH vs. Urine pH
 
-There are two indicators of pH levels in the human body: blood pH and urine pH.
+There are two indicators of pH levels in the human body: a blood pH and a urine pH.
 
 ### Blood pH
 

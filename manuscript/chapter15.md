@@ -1,4 +1,4 @@
-# The Alkaline Food Strategy
+# The Alkaline Food Story
 
 ## The Foundation
 
@@ -34,7 +34,7 @@ A persistently low pH (acidic) may signal that the body is under metabolic stres
 {class: warning}
 B> **Important Understanding**
 B>
-B> It's not just about an alkaline food program. To achieve optimal success, it's about managing the 6 Lifestyle Medicine Pillars together.
+B> It's not only about an alkaline food program. To achieve optimal success, it's about managing the 6 Lifestyle Medicine Pillars together.
 
 ## Recommended pH Testing Product
 
@@ -56,7 +56,7 @@ Amazon Link: https://amzn.to/46fZGpm
 
 If you find you are below 6.4, look back at your food log for the past 2 days and try to find out where you may have been consuming more acidic foods than alkaline. It's possible that some minor adjustments will make a big difference. Also check to make sure you are on track with your supplementation.
 
-If you look at your food log and you realize your alkaline/acid food balance and supplementation were on track, perhaps there's another area you need to focus on to help achieve body alkalinity. This is where the 6 Pillar program integration becomes relevant, and very important.
+If you look at your food log and you realize your alkaline/acid food balance and supplementation were on track, perhaps there's another area in your life that you need to focus on to help achieve body alkalinity. This is where managing the 6 Pillars of Lifestyle Medicine together become relevant.
 
 {class: success}
 B> **Multiple Lines of Defense**
@@ -65,9 +65,7 @@ B> With the ReachVitality 6-Pillar Lifestyle Medicine Program, you have 6 lines 
 
 ## Why Both Alkaline and Acidic Foods Matter
 
-While the idea behind focusing on alkaline foods is clear, you might wonder: "Wouldn't it be best to just consume alkaline foods?"
-
-Part of the answer to that question is yes, but it's critical to also eat acidic foods, too.
+We've discussed the importance of alkaline body chemistry – it's amazing cancer-fighting properties and creation of chemistry unfavorable to cancer growth. With that in mind you might think "Wouldn't it be best to just consume alkaline foods?" Part of the answer to that question is yes, but it's critical to also eat acidic foods, too.
 
 ### Both Alkaline and Acidic Foods Supply:
 
@@ -77,13 +75,13 @@ Part of the answer to that question is yes, but it's critical to also eat acidic
 - **Phytonutrients & antioxidants**: compounds from plants that protect cells from damage
 - **Hydration & fiber**: supporting digestion, circulation, and detoxification
 
-Hence, we need both alkaline and acidic foods in our diet. Here lies the balancing act. You want the majority of your diet to be alkaline-forming foods (fruits, vegetables, plant-based proteins), with fewer acid-forming foods (processed foods, refined sugars, excess meats).
+Hence, we need both alkaline and acidic foods in our diet. Here lies the balancing act. You want the majority of your diet to be alkaline-forming foods (fruits, vegetables, plant-based proteins), with fewer acid-forming foods (processed foods, refined sugars, excess meats). The formula is 4 alkaline foods for every 1 acidic food, and the goal is to eat between 10-14 alkaline foods per day.
 
 ## Food Quality Matters
 
 When at all possible, seek out organic, sustainably-raised or wild-caught food. Basically what this means is whatever your food is given to eat, those ingredients eventually end up in your body.
 
-Consuming fruits and vegetables from regenerative/sustainable and organic farms, wild caught fish, no-corn fed and free range animals are your best choices when you are fighting cancer. The reason being: less chemical and inflammatory load on your cells and immune system, so they can keep performing optimally.
+Consuming fruits and vegetables from regenerative/sustainable and organic farms, wild caught fish, no-corn fed and free range animals are your best choices when you are fighting cancer. Reason being - less chemical and inflammatory load on your cells and immune system, so they can keep performing optimally.
 
 {class: tip}
 B> **Key Principle**

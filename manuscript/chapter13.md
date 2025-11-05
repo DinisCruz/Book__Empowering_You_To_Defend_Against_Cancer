@@ -25,7 +25,7 @@ There are potential risk factors if someone with cancer doesn't meet the body's 
 
 **Increased fatigue**: Energy shortages leave patients feeling exhausted, both physically and mentally. In some cases, malnutrition and weight loss can result in serious conditions.
 
-**Cancer advantage**: If the patient is undernourished, the imbalance can actually give cancer an advantage—it continues to grow and spread while the immune system and normal cells become weaker and less able to resist.
+**And for cancer itself?** If the patient is undernourished, the imbalance can actually give cancer an advantage — it continues to grow and spread while the immune system and normal cells become weaker and less able to resist.
 
 ## The Solution: Eating Smarter
 
@@ -49,4 +49,4 @@ Through her own journey with cancer, Deb discovered that following her program a
 {class: success}
 B> **Living with cancer often brings uncertainty.**
 B>
-B> Many people find that the ReachVitality program helps to cultivate feelings of safety and confidence – which can be deeply empowering.
+B> Many people find that the ReachVitality program helps to cultivate feelings safety and confidence – which can be deeply empowering.

@@ -27,7 +27,7 @@ However, for cancer patients, some animal proteins are not as beneficial as othe
 
 - High in saturated fat, triggering chronic, low-grade inflammation that supports tumor growth and progression
 - Affects cellular repair and alters cell membranes
-- Substances called heterocyclic amines (HCAs) and polycyclic aromatic hydrocarbons (PAHs) are created when meat is cooked at high temperatures - these can alter DNA, possibly increasing cancer risk
+- Substances called heterocyclic amines (HCAs) and polycyclic aromatic hydrocarbons (PAHs) are created when meat is cooked at high temperatures. Research shows HCAs and PAHs can alter DNA, possibly increasing cancer risk
 - May worsen insulin resistance and increase growth signals (like IGF-1), which some cancers use to fuel their spread
 
 **Clams, Lobster, Scallops & Shrimp:**
