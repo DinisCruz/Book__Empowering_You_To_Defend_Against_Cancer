@@ -9,7 +9,7 @@ Our bodies are equipped with powerful defense systems designed to prevent cancer
 - **Apoptosis (Programmed Cell Death)** – A built-in "self-destruct" system that removes cells that are beyond repair.
 - **Autophagy & Stress Responses** – Clear out damaged components in cells and respond to oxidative stress to keep cells healthy.
 - **Immune System** – Natural killer (NK) cells, cytotoxic T-cells, and macrophages patrol the body, identifying and destroying cells that look abnormal or cancerous.
-- **Whole Body Alkalinity** – Creating an internal environment that improves oxygenation, curbs cancer's ability to progress, and strengthens the body's natural defenses so cells can function optimally.
+- **Whole Body Alkalinity** – A chemical, internal environment rich in oxygen that curbs cancer’s ability to progress and strengthens the body’s natural defenses, allowing cells to function optimally.
 
 ## How do these defense systems become compromised or broken?
 
