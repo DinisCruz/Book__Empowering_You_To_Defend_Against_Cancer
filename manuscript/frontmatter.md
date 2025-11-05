@@ -1,8 +1,8 @@
 {frontmatter}
 
-# Taking Control: A Lifestyle Medicine Approach to Cancer Prevention and Treatment
+# Empowering You to Defend Against Cancer: Grounded in Science. Guided by Choice.
 
-## Lifestyle Medicine Anti-Cancer Program & Integrated Coaching Services
+## 6-Pillar Lifestyle Medicine Anti-Cancer Program & Integrated Coaching Services
 
 ### ReachVitality
 
