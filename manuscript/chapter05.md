@@ -1,7 +1,7 @@
 # Deb's Journey to Healing
 
 {class: success}
-B> **Today, Deb's lung nodules are stable, and from time to time, shrink.**
+B> **Today, Deb's 3 lung nodules are stable, and from time to time, the nodules shrink.**
 B>
 B> She's had no new lung nodule growths in 2 1/2 years, and the original site of cancer in her leg has been clear for almost 6 years.
 
@@ -17,7 +17,7 @@ B> She's had no new lung nodule growths in 2 1/2 years, and the original site of
 - Exercise/movement
 - Positive social connections
 
-Deb has discovered a way to live in balance — one that has had a powerful effect on her cancer journey. She saves risky substances like alcohol, sugar, or processed foods for times of celebration with family and friends, making these moments joyful exceptions rather than daily habits. Most of the time, she focuses on healthy cooking, accountability through pH testing, and a Lifestyle Medicine routine that supports her body's natural defenses.
+Deb has discovered a way to live in balance — one that has had a powerful effect on her cancer journey. 15% of the time, she saves risky substances like alcohol, sugar, or processed foods for times of celebration with family and friends, making these moments joyful exceptions rather than daily habits. 85% of the time, she focuses on healthy cooking, accountability through pH testing, and a 6-Pillar Lifestyle Medicine routine that supports her body's natural defenses and targeted anti-cancer supplements.
 
 {class: success}
 B> **Deb is excited and encouraged to share her knowledge with those who need it.**
