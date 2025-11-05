@@ -4,7 +4,7 @@ Deb's cancer trigger came from a sclerotherapy vein treatment that injured her l
 
 With a successful leg surgery behind her, doctors said that her cancer 'was gone'. However, Deb's life continued to be stressful both personally and professionally. She went back to eating sugar to cope with the stress, didn't get much exercise, and pulled back from socializing. 8 months after the leg tumor was removed, the same sarcoma metastasized to her lungs.
 
-Notably, at the time, she was not a candidate for chemotherapy or radiation.
+**Notably, at the time, she was not a candidate for chemotherapy or radiation.**
 
 Deb later learned that if she had followed a Lifestyle Medicine approach even half the time during her life, her body's chemistry would have been unwelcoming to cancer, her tumor suppressor genes might have remained intact, and her immune system could have destroyed cancer cells before they took hold.
 
