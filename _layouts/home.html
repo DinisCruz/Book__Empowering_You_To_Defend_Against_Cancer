@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="home-content">
+    {{ content }}
+
+    <div class="book-parts">
+        <section class="part-section">
+            <h2>{{ site.navigation.part1.title }}</h2>
+            <ul class="chapter-list-home">
+                {% for chapter in site.navigation.part1.chapters %}
+                <li>
+                    <a href="{{ '/chapters/' | append: chapter.file | relative_url }}">
+                        <span class="chapter-number">{{ chapter.number }}</span>
+                        <span class="chapter-title">{{ chapter.title }}</span>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <section class="part-section">
+            <h2>{{ site.navigation.part2.title }}</h2>
+            <ul class="chapter-list-home">
+                {% for chapter in site.navigation.part2.chapters %}
+                <li>
+                    <a href="{{ '/chapters/' | append: chapter.file | relative_url }}">
+                        <span class="chapter-number">{{ chapter.number }}</span>
+                        <span class="chapter-title">{{ chapter.title }}</span>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <section class="part-section">
+            <h2>Additional Resources</h2>
+            <ul class="chapter-list-home">
+                <li>
+                    <a href="{{ '/sources' | relative_url }}">
+                        <span class="chapter-title">Sources & References</span>
+                    </a>
+                </li>
+            </ul>
+        </section>
+    </div>
+
+    <div class="book-info">
+        <h2>About the Author</h2>
+        <p><strong>Deb Brewer</strong> is a Stage 4 Cancer-Slayer with Harvard Medical School Executive Education certification in Lifestyle Medicine Nutrition. Through her personal journey with cancer, she developed the ReachVitality 6-Pillar Lifestyle Medicine Program to help others prevent, fight, and heal from cancer.</p>
+
+        <h2>License & Contact</h2>
+        <p>This book is licensed under Creative Commons CC-BY 4.0. For more information, visit <a href="https://www.ReachVitality.com">ReachVitality.com</a> or contact <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
+    </div>
+</div>

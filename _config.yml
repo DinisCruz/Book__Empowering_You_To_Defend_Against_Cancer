@@ -1,0 +1,69 @@
+# Jekyll Configuration for Taking Control Book
+
+# Site settings
+title: "Taking Control"
+description: "A Lifestyle Medicine Approach to Cancer Prevention and Treatment"
+author: "Deb Brewer"
+email: "reachvitality@gmail.com"
+
+# Build settings
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+# Collections
+collections:
+  chapters:
+    output: true
+    permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+
+# Navigation structure
+navigation:
+  part1:
+    title: "Part 1: Understanding Cancer and The ReachVitality Program"
+    chapters:
+      - { number: 1, title: "What is Cancer?", file: "chapter01" }
+      - { number: 2, title: "Our Core Defense Systems", file: "chapter02" }
+      - { number: 3, title: "Background for Deb's Cancer Story", file: "chapter03" }
+      - { number: 4, title: "Unhealthy Lifestyle + Trigger = Cancer", file: "chapter04" }
+      - { number: 5, title: "Deb's Journey to Healing", file: "chapter05" }
+      - { number: 6, title: "An Important Note About Mutations", file: "chapter06" }
+      - { number: 7, title: "Take The First Step & Take Back Control", file: "chapter07" }
+      - { number: 8, title: "Prevent, Fight, and Heal", file: "chapter08" }
+      - { number: 9, title: "ReachVitality 6 Pillars Benefits At-A-Glance", file: "chapter09" }
+      - { number: 10, title: "The Power of Moderation", file: "chapter10" }
+      - { number: 11, title: "Create the Environment Where Cancer Cannot Thrive", file: "chapter11" }
+  part2:
+    title: "Part 2: The Six Pillars of Lifestyle Medicine - Pillar 1: Nutrition & Supplementation"
+    chapters:
+      - { number: 12, title: "Introduction to Pillar 1", file: "chapter12" }
+      - { number: 13, title: "Understanding The Metabolic Load", file: "chapter13" }
+      - { number: 14, title: "Alkalinity & Acidity", file: "chapter14" }
+      - { number: 15, title: "The Alkaline Food Story", file: "chapter15" }
+      - { number: 16, title: "Food Categories & The ReachVitality Food Chart", file: "chapter16" }
+      - { number: 17, title: "The Glycemic Index", file: "chapter17" }
+      - { number: 18, title: "Processed Foods", file: "chapter18" }
+      - { number: 19, title: "Free Radicals, Antioxidants & Oxidative Stress", file: "chapter19" }
+      - { number: 20, title: "Immune System Boosters", file: "chapter20" }
+      - { number: 21, title: "Recommended Supplements", file: "chapter21" }
+      - { number: 22, title: "Nutrition & Supplementation Benefits At-A-Glance", file: "chapter22" }
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - source-pdfs
+  - README.md

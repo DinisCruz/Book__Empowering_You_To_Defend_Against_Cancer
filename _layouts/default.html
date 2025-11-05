@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.author }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+            <p class="site-author">by {{ site.author }}</p>
+        </div>
+    </header>
+
+    <div class="container main-content">
+        {{ content }}
+    </div>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author }}. Licensed under Creative Commons CC-BY 4.0</p>
+            <p>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a> | Website: <a href="https://www.ReachVitality.com">ReachVitality.com</a></p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<nav class="sidebar">
+    <div class="sidebar-content">
+        <h2>Table of Contents</h2>
+
+        <div class="part">
+            <h3>{{ site.navigation.part1.title }}</h3>
+            <ul class="chapter-list">
+                {% for chapter in site.navigation.part1.chapters %}
+                <li>
+                    <a href="{{ '/chapters/' | append: chapter.file | relative_url }}"
+                       {% if page.chapter_number == chapter.number %}class="active"{% endif %}>
+                        Chapter {{ chapter.number }}: {{ chapter.title }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="part">
+            <h3>{{ site.navigation.part2.title }}</h3>
+            <ul class="chapter-list">
+                {% for chapter in site.navigation.part2.chapters %}
+                <li>
+                    <a href="{{ '/chapters/' | append: chapter.file | relative_url }}"
+                       {% if page.chapter_number == chapter.number %}class="active"{% endif %}>
+                        Chapter {{ chapter.number }}: {{ chapter.title }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="part">
+            <h3>Additional Resources</h3>
+            <ul class="chapter-list">
+                <li><a href="{{ '/sources' | relative_url }}">Sources & References</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<main class="chapter-content">
+    <article>
+        {% if page.chapter_number %}
+        <div class="chapter-header">
+            <span class="chapter-number">Chapter {{ page.chapter_number }}</span>
+        </div>
+        {% endif %}
+
+        {{ content }}
+
+        <nav class="chapter-navigation">
+            {% if page.prev_chapter %}
+            <div class="nav-prev">
+                <a href="{{ '/chapters/' | append: page.prev_chapter | relative_url }}">&larr; Previous Chapter</a>
+            </div>
+            {% endif %}
+
+            {% if page.next_chapter %}
+            <div class="nav-next">
+                <a href="{{ '/chapters/' | append: page.next_chapter | relative_url }}">Next Chapter &rarr;</a>
+            </div>
+            {% endif %}
+        </nav>
+    </article>
+</main>
