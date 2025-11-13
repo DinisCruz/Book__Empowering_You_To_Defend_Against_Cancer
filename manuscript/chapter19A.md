@@ -1,4 +1,4 @@
-##The Gut Microbiome##
+## The Gut Microbiome ##
 
 Emerging research shows that the gut microbiome—the vast community of bacteria, fungi,
 and other microorganisms in the digestive tract—plays a vital role in immune regulation,
@@ -7,7 +7,7 @@ taining a healthy microbiome through a diverse and brightly colored diet as well
 (which feed beneficial bacteria) and probiotics (which replenish them) can strengthen
 resilience, improve treatment tolerance, and support overall healing.
 
-##Why the Gut Microbiome Matters for Cancer Patients:##
+### Why the Gut Microbiome Matters for Cancer Patients: ###
 
 • Enhances immune function: A balanced microbiome improves communication between
 gut bacteria and immune cells, boosting the body’s ability to detect and destroy
@@ -26,7 +26,7 @@ absorb vitamins and minerals critical for recovery.
 “leaky gut,” infection risk, and toxin reabsorption during treatment.
 
 
-##Probiotic Sources (Add Good Bacteria):##
+### Probiotic Sources (Add Good Bacteria): ###
 
 • Supplements: Choose multi-strain probiotic capsules with at least 10–20 billion CFUs and
 strains like Lactobacillus and Bifidobacterium (we’ll show you these later in this module).
@@ -35,7 +35,7 @@ strains like Lactobacillus and Bifidobacterium (we’ll show you these later in 
 acid.
 
 
-##Prebiotic Sources (Feed Good Bacteria):##
+### Prebiotic Sources (Feed Good Bacteria): ###
 
 • Plant-based fibers: Garlic, onions, leeks, asparagus, and artichokes.
 
@@ -45,6 +45,4 @@ bacteria.
 • Combination approach: Pair prebiotic foods with probiotic sources regularly to maintain
 microbiome diversity and balance.
 
-##In addition to an alkaline and multi-colored food diet, give
-your body the targeted pre and probiotic support it needs to
-prevent and fight cancer.##
+### In addition to an alkaline and multi-colored food diet, give your body the targeted pre and probiotic support it needs to prevent and fight cancer. ###
