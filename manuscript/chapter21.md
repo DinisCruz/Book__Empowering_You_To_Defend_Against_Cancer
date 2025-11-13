@@ -27,7 +27,7 @@ The following supplements form the foundation of the ReachVitality anti-cancer s
 - Magnesium
 - Distilled Water
 - Chlorophyll
-- NUUN Electrolyte Tablets
+- Low or no-sugar Electrolyte Tablets
 
 ## Detailed Supplement Information
 
@@ -278,7 +278,7 @@ Distilled water is available at most supermarkets.
 
 ### Electrolytes
 
-NUUN Electrolyte Tablets provide essential minerals that support hydration, especially important for cancer patients who may experience dehydration from treatment side effects.
+Low or no-sugar Electrolyte Tablets provide essential minerals that support hydration, especially important for cancer patients who may experience dehydration from treatment side effects.
 
 {class: tip}
 B> **Dosage**
@@ -289,20 +289,21 @@ B> 1-3 tablets per day in water
 
 | **PRODUCT** | **DOSAGE** | **PURCHASE LINK** |
 |-------------|------------|-------------------|
-| Paw Paw* Soursop Capsules | 2 capsules 3 x day | [Purchase Link](https://example.com) |
-| Graviola* Soursop Tincture<br>*If Paw Paw upsets the stomach, Graviola is a good alternative. DO NOT TAKE both. | 21 drops 3 x day | [Purchase Link](https://example.com) |
-| Black Seed Oil Capsules | 3 capsules per day | [Purchase Link](https://example.com) |
-| Zinc Glycinate | 1 capsule per day | [Purchase Link](https://example.com) |
-| Magnesium | 2 capsules at night | [Purchase Link](https://example.com) |
-| B Complex | 2 capsules per day | [Purchase Link](https://example.com) |
-| Ellagic Acid | 2 capsules 3 x day | [Purchase Link](https://example.com) |
-| Chlorophyll | 1 Tbsp 3 x day in distilled water | [Purchase Link](https://example.com) |
-| Quercetin with Bromelain | 2 capsules 3 x day | [Purchase Link](https://example.com) |
-| Probiotics | 1 capsule 1 x day | [Purchase Link](https://example.com) |
-| Vitamin D & MK-7 | 1 capsule 1 x day | [Purchase Link](https://example.com) |
+| Paw Paw* Soursop Capsules | 2 capsules 3 x day | [Purchase Link](https://www.amazon.com/dp/B001X04STA/ref=cm_sw_r_as_gl_api_gl_i_ESY135ESWP6190VDX7RW?linkCode=ml1&tag=reachvitality-20&linkId=a5d46b51fd6b5792130173014a8950b9)
+| Graviola* Soursop Tincture<br>*If Paw Paw upsets the stomach, Graviola is a good alternative. DO NOT TAKE both. | 21 drops 3 x day | [Purchase Link](https://www.amazon.com/dp/B01A3NVJ9E/ref=cm_sw_r_as_gl_api_gl_i_FZ4JQX3DAENPD7S1E5RB?linkCode=ml1&tag=reachvitality-20&linkId=5d40771154a1daa62e888bca0482caf2) |
+| Black Seed Oil Capsules | 3 capsules per day | [Purchase Link](https://www.amazon.com/dp/B0CHWDFC5B/ref=cm_sw_r_as_gl_api_gl_i_KQWTNW9XYKMZ9HH5F5S6?linkCode=ml1&tag=reachvitality-20&linkId=c94cf10c3362619235346b335d36416b) |
+| Zinc Glycinate | 1 capsule per day | [Purchase Link](https://www.amazon.com/dp/B005P0G2B6/ref=cm_sw_r_as_gl_api_gl_i_BCP8N7PT4P0JMJ8HDQTB?linkCode=ml1&tag=reachvitality-20&linkId=b02a0a174080f0f983eb9c3b1717f445&th=1) |
+| Magnesium Glycinate | 2 capsules at night | [Purchase Link](https://www.amazon.com/dp/B0CB984SHQ/ref=cm_sw_r_as_gl_api_gl_i_G1C6W944ZV76ZT9W3CPN?linkCode=ml1&tag=reachvitality-20&linkId=8c553aade126eac759d3bf289e68a9c2) |
+| B Complex | 2 capsules per day | [Purchase Link](https://www.amazon.com/dp/B0011FY9AU/ref=cm_sw_r_as_gl_api_gl_i_BNRR06VRC4T62AYN6DT9?linkCode=ml1&tag=reachvitality-20&linkId=5eb34af5d69c3ede403e1dadbafb9d52&th=1) |
+| Ellagic Acid | 2 capsules 3 x day | [Purchase Link](https://www.amazon.com/dp/B0BXKY7LQ4/ref=cm_sw_r_as_gl_api_gl_i_0X3S79WPZN7DZ0X9ENV9?linkCode=ml1&tag=reachvitality-20&linkId=1f6bb5e93b1b9938eb8a6a352f7d4377) |
+| Chlorophyll Liquid | 1 Tbsp 3 x day in distilled water | [Purchase Link](https://www.amazon.com/dp/B001E0WDGO/ref=cm_sw_r_as_gl_api_gl_i_NHVSQ4VG0E9N1D32C0C7?linkCode=ml1&tag=reachvitality-20&linkId=2311e081e3c491c47bd921a9dc0b210e&th=1) |
+| Chlorophyll Capsules (alternative to liquid) | 2 capsules 3 x day | [Purchase Link](https://www.amazon.com/dp/B00016AGBQ/ref=cm_sw_r_as_gl_api_gl_i_BCYN21SHCWA4GVYWMM5C?linkCode=ml1&tag=reachvitality-20&linkId=6cf2afe8a43885ffcedc4cb404977d0e) |
+| Quercetin with Bromelain | 2 capsules 3 x day | [Purchase Link](https://www.amazon.com/dp/B002JNK8EY/ref=cm_sw_r_as_gl_api_gl_i_E5J2EPJYFSN951DB7R68?linkCode=ml1&tag=reachvitality-20&linkId=100f1fedff6b4faad50d5ef9d6cd0089&th=1) |
+| Probiotics | 1 capsule 1 x day | [Purchase Link](https://www.amazon.com/dp/B00H4GW8IK/ref=cm_sw_r_as_gl_api_gl_i_JVJBYCE7JFVHK1QJ9TC7?linkCode=ml1&tag=reachvitality-20&linkId=ff0e043d0cf2d56ce217beb80db67d96) |
+| Vitamin D & MK-7 | 1 capsule 1 x day | [Purchase Link](https://www.amazon.com/dp/B078QQTY5G/ref=cm_sw_r_as_gl_api_gl_i_FBW9TD9RKGWDBB5RR8YV?linkCode=ml1&tag=reachvitality-20&linkId=5de463ce92caa1f40efe7434cd83c272&th=1) |
 | pH Strips | Test M/W/F, calculate average | [Purchase Link](https://amzn.to/46fZGpm) |
-| Spleen Glandular | 1 cap 1 x day | [Purchase Link](https://example.com) |
-| NUUN Electrolyte Tabs | 1-3 tablets per day in water | [Purchase Link](https://example.com) |
+| Spleen Glandular | 1 cap 1 x day | [Purchase Link](https://www.amazon.com/dp/B073586VVM/ref=cm_sw_r_as_gl_api_gl_i_JH1GTXK2P3X3DZAKDZH2?linkCode=ml1&tag=reachvitality-20&linkId=fd6b8ab60f90788c83c808d50752d6bb) |
+| NUUN Electrolyte Tabs | 1-3 tablets per day in water | [Purchase Link](https://www.amazon.com/dp/B018NZJBSA/ref=cm_sw_r_as_gl_api_gl_i_WRYF232NKZ4TMFJCBVDE?linkCode=ml1&tag=reachvitality-20&linkId=8e5191195108b72f49867140c2b570c5&th=1) |
 | Distilled Water | 30–35 milliliters of water per kilogram of body weight per day, or roughly half your body weight in ounces. | Available at most supermarkets |
 
 {class: success}
